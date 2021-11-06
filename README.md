@@ -4,9 +4,9 @@
 - 💞️ Recently I’m not looking for any collaboration because i need to develope my skills first
 - 📫 How to reach me 
 - 
-     My Instagram : @im__harsh___
+     My Instagram : @im__harsh___ https://www.instagram.com/im__harsh___/
      
-     My Twitter : https://twitter.com/HarshUserethe
+     My Twitter : @HarshUserethe https://twitter.com/HarshUserethe
 
 <!---
 objectoriented-guy/objectoriented-guy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
