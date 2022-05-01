@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning Web Developement
 - 💞️ Recently I’m not looking for any collaboration because i need to develope my skills first
 - 📫 How to reach me 
--  My Instagram : @im__harsh___ https://www.instagram.com/im__harsh___/
-                   My Twitter : @HarshUserethe https://twitter.com/HarshUserethe
+- Instagram: @im__harsh___ https://www.instagram.com/im__harsh___/
+- LinkedIn: https://www.linkedin.com/in/harshuserethe/
+                   
 
 <!---
 objectoriented-guy/objectoriented-guy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
